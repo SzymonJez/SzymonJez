@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzymonJez
 - 👀 I’m interested in hiking, biking, walking, travel and books
-- 🌱 I’m currently learning testing the software
+- 🌱 I’m currently learning about testing the software
 - 💞️ I’m looking to collaborate on all interesting projects
 - 📫 How to reach me: skype, slack, email, LinkedIn and Twitter
 
